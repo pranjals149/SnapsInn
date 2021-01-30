@@ -1,6 +1,6 @@
 <h1 align='center'>SnapsInn</h1>
 
-<p><img src='https://raw.githubusercontent.com/pranjals149/acevent/5a1f9e62abc8126ea92983a966a3823ca3273a4b/snapsinn.svg' height=400 width=400 /></p>
+<p align='center'><img src='https://raw.githubusercontent.com/pranjals149/acevent/5a1f9e62abc8126ea92983a966a3823ca3273a4b/snapsinn.svg' height=400 width=400 /></p>
 
 <p>This app is a snaps based web app. Whenever a user logs into his / her account, the app is redirected to the camera page. Just click the photograph and press Send. After clicking the send button, the snaps will be displayed in the chats section. The snaps can be opened and it will be valid for only 10 seconds. After 10 seconds, users will not be able to see the snaps. This app is made up of React + Redux + Material-UI.</p>
 
